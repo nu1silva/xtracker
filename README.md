@@ -1,2 +1,2 @@
 # xtracker
-Expense Tracking API written in GO
+Spring Boot based Expense Tracking API
