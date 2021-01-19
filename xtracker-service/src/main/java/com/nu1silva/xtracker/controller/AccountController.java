@@ -3,7 +3,7 @@ package com.nu1silva.xtracker.controller;
 import com.nu1silva.xtracker.model.Account;
 import com.nu1silva.xtracker.model.AccountStatus;
 import com.nu1silva.xtracker.model.AccountType;
-import com.nu1silva.xtracker.repo.AccountRepository;
+import com.nu1silva.xtracker.repository.AccountRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

@@ -8,6 +8,7 @@ class XtrackerServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assert true;
 	}
 
 }
