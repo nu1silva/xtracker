@@ -28,4 +28,6 @@ public class AccountController {
         account.setAccountType(AccountType.FREE);
         accountRepository.save(account);
     }
+
+    public void deleteAccount(UUID accoundId) {}
 }
